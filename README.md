@@ -1,4 +1,4 @@
-# project_html_Restaurant_Lemon
+# project_html_Restaurant_Little Lemon
 Project of Coursera Course-Meta Front End-HTML and CSS in depth
 
 ![index](https://github.com/yivvm/Project_html_Restaurant_Lemon/assets/134717898/bc3183c5-a1e0-4906-aa78-9acaa7fd080d)
